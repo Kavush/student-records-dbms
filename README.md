@@ -1,4 +1,3 @@
-<div align="left">
 # Student Records Management System (MySQL)
 
 ## 📌 Project Overview
@@ -93,4 +92,3 @@ WHERE d.department_name = 'Web Development';
 
 Esther Kavata Alfred  
 Assignment for Database Management Systems (DBMS)  
-</div>
